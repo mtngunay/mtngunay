@@ -1,8 +1,21 @@
 # 💫 About Me:
-Hello, I'm Metin Günay, a software engineer working as a Full Stack Developer and Team Leader. I specialize in system integration technologies, with experience in projects involving ERP, CRM, CMS, B2B, B2C, and custom solutions. I am known for my ability to quickly adapt to new technologies and my eagerness to research and learn technologies that are unfamiliar to me. With a strong capability to effectively implement what I learn, I excel in teamwork, possess an analytical mindset, and demonstrate strong planning skills.
+As a Full Stack Software Engineer and Team Leader, I have experience in integration technologies across systems. I have worked on ERP, CRM, CMS, B2B, and B2C projects. I am motivated to quickly adapt to new technologies and to research and learn about unfamiliar topics. I am team-oriented, possess an analytical mindset, and strive to effectively utilize my planning skills in projects.<br><br>
 
-Merhaba, ben Metin Günay. Yazılım mühendisi olarak Full Stack ve Takım Lideri olarak çalışıyorum. Özellikle sistemler arası entegrasyon teknolojilerinde uzmanlaşmış durumdayım ve ERP, CRM, CMS, B2B, B2C gibi çeşitli projelerde görev aldım.
-Hızlı bir şekilde yeni teknolojilere adapte olabilme yeteneğimle bilinirim ve bilmediğim teknolojileri araştırıp öğrenme konusunda istekliyim. Öğrendiklerimi etkili bir şekilde uygulayabilme becerimle birlikte, takım çalışmasına yatkın, analitik düşünce yapısına sahip ve güçlü planlama yeteneklerine sahip bir yazılım mühendisiyim.<br><br>Backend<br>C#, .NET 8, .NET Core MVC, RESTful Web Servis (API), JSON Web Token(JWT)<br><br>Frontend<br>Angular 8+, Typescript 2+, HTML5, CSS3, jQuery, Javascript, Ajax, JSON, XML, Bootstrap<br><br>Veritabanı<br>MSSQL Server, Hangfire, ORM, Entity Framework, <br>DB First, Code First, Linq, T-SQL, SQL Server Stored Procedure,<br>SQL Server Trigger, SQL Server Linked Servers, Database Design and Mapping<br><br>Design Pattern<br>Repository Pattern, Singleton Pattern, <br>Mediator Pattern, <br>Command Query Responsibility Segregation (CQRS) Pattern<br><br>Metodoloji<br>SOLID Prensibleri, Yazılım Tasarımı Gereksinim Analizi, Waterfall ve Agile Metodolojisi<br>
+Full Stack Yazılım Mühendisi ve Takım Lideri olarak sistemler arası entegrasyon teknolojilerinde deneyim sahibiyim. ERP, CRM, CMS, B2B ve B2C projelerinde çalıştım. Yeni teknolojilere hızla uyum sağlama ve bilmediğim konuları araştırıp öğrenme konusunda motiveyim. Takım çalışmasına yatkın, analitik düşünce yapısına sahip ve planlama yeteneklerimi projelerde etkili bir şekilde kullanmaya özen gösteriyorum.<br><br>
+
+YETENEKLER<br> Programlama Dilleri ve Çerçeveler: C#, .NET 8, .NET Core MVC, Angular 12+, Typescript, HTML5, CSS3, jQuery, JavaScript, AJAX, JSON, XML, Bootstrap<br><br>
+
+Veritabanı Yönetimi: MSSQL Server, MongoDB, Redis, Entity Framework (DB First ve Code First), LINQ, T-SQL, SQL Server Stored Procedure, SQL Server Trigger, SQL Server Linked Servers, Database Design and Mapping, Repository Pattern<br><br>
+
+Sistem Mimarisi ve Entegrasyon: Domain Driven Design, Event-Driven Architecture, CQRS, RESTful Web Servis (API), JSON Web Token (JWT), Ocelot API, RabbitMQ, SignalR, Hangfire<br><br>
+
+DevOps ve Süreç Yönetimi: Azure DevOps CI/CD, Team Foundation Server (TFS), GIT, GitKraken, GitHub, Bitbucket, Jira, Slack<br><br>
+
+Yazılım Tasarımı ve Geliştirme Yaklaşımları: SOLID Prensipleri, Yazılım Tasarımı, Gereksinim Analizi, Waterfall ve Agile Metodolojileri<br><br>
+
+CRM ve CMS Deneyimi: Microsoft Dynamics 365, Dynamics CRM, NopCommerce<br><br>
+
+Diğer Yetenekler: Custom Report and Analysis, Photoshop<br>
 
 
 ## 🌐 Socials:
