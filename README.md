@@ -38,3 +38,7 @@ Diğer Yetenekler: Custom Report and Analysis, Photoshop<br>
 [![](https://visitcount.itsvg.in/api?id=mtngunay&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Metin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtngunay&show_icons=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtngunay&label=Profile%20views&color=0e75b6&style=flat" alt="mtngunay" /> </p>
