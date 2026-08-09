@@ -9,9 +9,9 @@ I enjoy exploring new technologies, solving complex problems, and continuously i
 ### Programming Languages & Frameworks
 
 * C#
-* .NET 8
+* .NET 10
 * .NET Core MVC
-* Angular 12+
+* Angular 20+
 * TypeScript
 * JavaScript
 * HTML5 / CSS3
