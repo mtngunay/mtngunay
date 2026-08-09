@@ -1,21 +1,93 @@
-# 💫 About Me:
-As a Full Stack Software Engineer and Team Leader, I have experience in integration technologies across systems. I have worked on ERP, CRM, CMS, B2B, and B2C projects. I am motivated to quickly adapt to new technologies and to research and learn about unfamiliar topics. I am team-oriented, possess an analytical mindset, and strive to effectively utilize my planning skills in projects.<br><br>
+# 👋 About Me
 
-Full Stack Yazılım Mühendisi ve Takım Lideri olarak sistemler arası entegrasyon teknolojilerinde deneyim sahibiyim. ERP, CRM, CMS, B2B ve B2C projelerinde çalıştım. Yeni teknolojilere hızla uyum sağlama ve bilmediğim konuları araştırıp öğrenme konusunda motiveyim. Takım çalışmasına yatkın, analitik düşünce yapısına sahip ve planlama yeteneklerimi projelerde etkili bir şekilde kullanmaya özen gösteriyorum.<br><br>
+I am a **Full Stack Software Engineer and Team Leader** with experience in designing and developing scalable software solutions and system integrations. I have worked on **ERP, CRM, CMS, B2B, and B2C** projects, with a strong focus on backend development, system architecture, and integration technologies.
 
-YETENEKLER<br> Programlama Dilleri ve Çerçeveler: C#, .NET 8, .NET Core MVC, Angular 12+, Typescript, HTML5, CSS3, jQuery, JavaScript, AJAX, JSON, XML, Bootstrap<br><br>
+I enjoy exploring new technologies, solving complex problems, and continuously improving my technical skills. I am a **team-oriented and analytical professional** who values clean architecture, effective planning, and delivering maintainable and reliable software solutions.
 
-Veritabanı Yönetimi: MSSQL Server, MongoDB, Redis, Entity Framework (DB First ve Code First), LINQ, T-SQL, SQL Server Stored Procedure, SQL Server Trigger, SQL Server Linked Servers, Database Design and Mapping, Repository Pattern<br><br>
+## 🛠️ Skills
 
-Sistem Mimarisi ve Entegrasyon: Domain Driven Design, Event-Driven Architecture, CQRS, RESTful Web Servis (API), JSON Web Token (JWT), Ocelot API, RabbitMQ, SignalR, Hangfire<br><br>
+### Programming Languages & Frameworks
 
-DevOps ve Süreç Yönetimi: Azure DevOps CI/CD, Team Foundation Server (TFS), GIT, GitKraken, GitHub, Bitbucket, Jira, Slack<br><br>
+* C#
+* .NET 8
+* .NET Core MVC
+* Angular 12+
+* TypeScript
+* JavaScript
+* HTML5 / CSS3
+* jQuery
+* AJAX
+* JSON / XML
+* Bootstrap
 
-Yazılım Tasarımı ve Geliştirme Yaklaşımları: SOLID Prensipleri, Yazılım Tasarımı, Gereksinim Analizi, Waterfall ve Agile Metodolojileri<br><br>
+### Database & Data Management
 
-CRM ve CMS Deneyimi: Microsoft Dynamics 365, Dynamics CRM, NopCommerce<br><br>
+* Microsoft SQL Server (MSSQL)
+* MongoDB
+* Redis
+* Entity Framework — DB First & Code First
+* LINQ
+* T-SQL
+* Stored Procedures
+* SQL Server Triggers
+* SQL Server Linked Servers
+* Database Design & Mapping
+* Repository Pattern
 
-Diğer Yetenekler: Custom Report and Analysis, Photoshop<br>
+### System Architecture & Integration
+
+* Domain-Driven Design (DDD)
+* Event-Driven Architecture
+* CQRS
+* RESTful Web Services / APIs
+* JSON Web Token (JWT)
+* Ocelot API Gateway
+* RabbitMQ
+* SignalR
+* Hangfire
+
+### DevOps & Project Management
+
+* Azure DevOps
+* CI/CD
+* Team Foundation Server (TFS)
+* Git
+* GitHub
+* GitKraken
+* Bitbucket
+* Jira
+* Slack
+
+### Software Design & Development
+
+* SOLID Principles
+* Software Architecture & Design
+* Requirements Analysis
+* Agile Methodologies
+* Waterfall Methodology
+* Clean & Maintainable Code
+* Problem Solving
+
+### CRM & CMS
+
+* Microsoft Dynamics 365
+* Microsoft Dynamics CRM
+* NopCommerce
+
+### Other Skills
+
+* Custom Reporting & Data Analysis
+* Adobe Photoshop
+
+## 🚀 What I Focus On
+
+* Building scalable and maintainable software architectures
+* Developing robust APIs and system integrations
+* Designing distributed and event-driven systems
+* Improving application performance and reliability
+* Learning and adapting to new technologies
+* Leading and collaborating with development teams
+
 
 
 ## 🌐 Socials:
