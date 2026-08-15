@@ -111,7 +111,4 @@ I enjoy exploring new technologies, solving complex problems, and continuously i
   <img src="https://streak-stats.demolab.com/demo/preview.php?user=mtngunay&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
----
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:042F2E,35:064E56,65:00AFC1,100:00F5D4" />
