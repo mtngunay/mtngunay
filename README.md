@@ -89,7 +89,11 @@ I enjoy exploring new technologies, solving complex problems, and continuously i
 * Learning and adapting to new technologies
 * Leading and collaborating with development teams
 
+[![](https://visitcount.itsvg.in/api?id=mtngunay&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtngunay&label=Profile%20views&color=0e75b6&style=flat" alt="mtngunay" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mtngunay)
@@ -108,10 +112,6 @@ I enjoy exploring new technologies, solving complex problems, and continuously i
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mtngunay&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtngunay&label=Profile%20views&color=0e75b6&style=flat" alt="mtngunay" /> </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:042F2E,35:064E56,65:00AFC1,100:00F5D4" />
