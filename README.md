@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1E1B4B,70:312E81,100:06B6D4&text=Metin%20G%C3%BCnay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38)"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:042F2E,35:064E56,65:00AFC1,100:00F5D4&text=Metin%20G%C3%BCnay&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 # 👋 About Me
 
 I am a **Full Stack Software Engineer and Team Leader** with experience in designing and developing scalable software solutions and system integrations. I have worked on **ERP, CRM, CMS, B2B, and B2C** projects, with a strong focus on backend development, system architecture, and integration technologies.
